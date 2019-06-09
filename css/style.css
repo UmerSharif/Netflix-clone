@@ -126,6 +126,23 @@ img {
   text-align: center;
 }
 
+.tabs p {
+  font-size: 1.2rem;
+  padding-top: 0.5rem;
+}
+
+.tabs .container > div {
+  padding: 1.5rem 0;
+}
+
+/* container */
+.container {
+  max-width: 70%;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+
 /* Buttons */
 
 .btn {
